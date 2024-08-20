@@ -146,7 +146,7 @@ module.exports = {
 
   gateway: {
     auth: true,
-    accessToken: 'token',
-    viewerToken: 'token',
+    accessToken: 'shenmemima1986',
+    viewerToken: 'shenmemima1986',
   },
 }
